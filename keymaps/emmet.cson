@@ -21,7 +21,6 @@
   'ctrl-shift-I': 'emmet:encode-decode-data-url'
   'ctrl-U': 'emmet:update-tag'
   'cmd-M': 'emmet:merge-lines'
-  'ctrl-w': 'emmet:wrap-with-abbreviation'
   'cmd-alt-enter': 'emmet:interactive-expand-abbreviation'
 
 # more specificity to Emmet to override Tab key action for snippets plugin
